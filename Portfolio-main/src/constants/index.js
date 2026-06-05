@@ -152,19 +152,19 @@ subDescription: [
   },
   {
     id: 5,
-    title: "Fraud Detection System",
+    title: "Employee Turnover Prediction ",
 description:
-  "A credit card fraud detection system that leverages machine learning techniques to identify fraudulent transactions and enhance financial security through predictive analysis.",
+  "An Employee Attrition Prediction System that leverages machine learning to identify employees at risk of leaving, enabling organizations to improve retention strategies and make data-driven HR decisions.",
 
 subDescription: [
-  "Preprocessed transaction datasets by handling missing values, scaling features, and addressing class imbalance to improve model performance.",
-  "Implemented and trained a Support Vector Machine (SVM) model for accurate classification of fraudulent and legitimate transactions.",
-  "Evaluated model effectiveness using accuracy, precision, recall, F1-score, and confusion matrix analysis.",
-  "Developed a data-driven fraud detection pipeline capable of identifying suspicious activities and reducing potential financial losses.",
+  "Built a Decision Tree-based predictive model to analyze employee attrition using factors such as compensation, satisfaction levels, career growth opportunities, and workplace engagement.",
+  "Handled highly imbalanced datasets using stratified sampling techniques to enhance model reliability and prediction accuracy.",
+  "Applied 5-fold cross-validation and ROC curve analysis to evaluate model performance, achieving effective employee attrition risk classification.",
+  "Provided data-driven recommendations for improving employee retention through enhanced work conditions, engagement initiatives, and competitive compensation strategies.",
 ],
     href: "",
     logo: "",
-    image: "/assets/projects/frauddetection.jpg",
+    image: "/assets/projects/employee.jpg",
     tags: [
       {
         id: 1,
@@ -190,19 +190,19 @@ subDescription: [
   },
   {
     id: 6,
-    title: "Movie recommendation System",
+    title: "Deep Learning Image Recognition ",
 description:
-  "A machine learning-powered Movie Recommendation System that analyzes movie attributes and user preferences to deliver accurate and personalized movie suggestions.",
+  "An AI-powered Image Recognition System built using the VGG16 deep learning architecture to classify and recognize images with high accuracy through transfer learning and computer vision techniques.",
 
 subDescription: [
-  "Built a recommendation engine using Python, Pandas, and Scikit-Learn to analyze movie metadata and generate similarity-based recommendations.",
-  "Processed and cleaned large movie datasets, performing feature engineering to improve recommendation quality.",
-  "Implemented content-based filtering using cosine similarity to identify and suggest relevant movies.",
-  "Designed an intuitive user interface for movie search and recommendation, providing a seamless and engaging user experience.",
+  "Implemented the VGG16 Convolutional Neural Network using TensorFlow and Keras, leveraging pre-trained ImageNet weights for efficient feature extraction.",
+  "Developed an image preprocessing pipeline using OpenCV and NumPy, including resizing, normalization, and data augmentation.",
+  "Fine-tuned the model with custom dense layers to improve classification performance on domain-specific image datasets.",
+  "Analyzed training performance using Matplotlib visualizations and achieved reliable image classification across predefined categories.",
 ],
     href: "",
     logo: "",
-    image: "/assets/projects/movierecommend.jpg",
+    image: "/assets/projects/faceimg.jpg",
     tags: [
       {
         id: 1,
