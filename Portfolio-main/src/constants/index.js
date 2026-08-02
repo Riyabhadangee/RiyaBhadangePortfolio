@@ -11,7 +11,7 @@ subDescription: [
   "Implemented dynamic hotel suggestions and activity schedules based on destination, budget, and trip duration.",
   
 ],
-    href: "",
+    // href: "",
     logo: "",
     image: "/assets/projects/accessories.jpg",
     tags: [
@@ -39,23 +39,23 @@ subDescription: [
   },
   {
     id: 2,
-    title: "Authentication & Authorization System",
-    description:
-      "A secure authentication and authorization system using Auth0 for seamless user management.",
-    subDescription: [
-      "Integrated Auth0 for authentication, supporting OAuth, JWT, and multi-factor authentication.",
-      "Implemented role-based access control (RBAC) for fine-grained user permissions.",
-      "Developed a React-based frontend with Tailwind CSS for a sleek user experience.",
-      "Connected to a secure SQLite database for user data storage.",
-    ],
-    href: "",
+    title: "Concurrent Task Engine",
+description:
+  "A multithreaded task processing engine built in Java to execute asynchronous tasks efficiently using concurrent programming concepts.",
+subDescription: [
+  "Designed a thread-safe task queue and worker thread architecture for efficient concurrent task execution.",
+  "Implemented Java concurrency utilities, including ExecutorService, BlockingQueue, and thread synchronization for reliable task scheduling.",
+  "Developed task lifecycle management with support for asynchronous execution, exception handling, and graceful worker shutdown.",
+  "Built a scalable and extensible architecture following object-oriented design principles to improve performance and maintainability.",
+],
+    // href: "",
     logo: "",
     image: "/assets/projects/auth-system.jpg",
     tags: [
       {
         id: 1,
-        name: "Auth0",
-        path: "/assets/logos/auth0.svg",
+        name: "Java",
+        path: "/assets/logos/java.svg",
       },
       {
         id: 2,
@@ -86,7 +86,7 @@ subDescription: [
   "Enhanced application performance through frontend optimization, debugging, and code refactoring.",
   "Ensured cross-browser compatibility and maintained a clean codebase following modern web development best practices.",
 ],
-    href: "",
+    // href: "",
     logo: "",
     image: "/assets/projects/connectfor.png",
     tags: [
@@ -124,7 +124,7 @@ subDescription: [
   "Implemented REST APIs for book catalog management, issue/return operations, member records, and search functionality.",
   "Enhanced system reliability through input validation, exception handling, and seamless database integration using JPA and Hibernate.",
 ],
-    href: "",
+    // href: "",
     logo: "",
     image: "/assets/projects/library.jpg",
     tags: [
@@ -162,7 +162,7 @@ subDescription: [
   "Applied 5-fold cross-validation and ROC curve analysis to evaluate model performance, achieving effective employee attrition risk classification.",
   "Provided data-driven recommendations for improving employee retention through enhanced work conditions, engagement initiatives, and competitive compensation strategies.",
 ],
-    href: "",
+    // href: "",
     logo: "",
     image: "/assets/projects/employee.jpg",
     tags: [
@@ -190,17 +190,17 @@ subDescription: [
   },
   {
     id: 6,
-    title: "Deep Learning Image Recognition ",
+    title: "Fraude Detection System",
 description:
-  "An AI-powered Image Recognition System built using the VGG16 deep learning architecture to classify and recognize images with high accuracy through transfer learning and computer vision techniques.",
+  "An AI-powered Fraud Detection System built using machine learning algorithms to detect, analyze, and prevent fraudulent financial transactions in real time.",
 
 subDescription: [
-  "Implemented the VGG16 Convolutional Neural Network using TensorFlow and Keras, leveraging pre-trained ImageNet weights for efficient feature extraction.",
-  "Developed an image preprocessing pipeline using OpenCV and NumPy, including resizing, normalization, and data augmentation.",
-  "Fine-tuned the model with custom dense layers to improve classification performance on domain-specific image datasets.",
-  "Analyzed training performance using Matplotlib visualizations and achieved reliable image classification across predefined categories.",
+  "Developed an ensemble machine learning model using Random Forest, XGBoost, and Logistic Regression to accurately classify fraudulent transactions.",
+  "Built a FastAPI-based REST API for real-time fraud prediction, enabling low-latency transaction analysis and seamless integration with client applications.",
+  "Implemented Redis caching and Docker containerization to improve system performance, scalability, and deployment efficiency.",
+  "Designed an interactive Streamlit dashboard to visualize fraud predictions, feature importance, model performance metrics, and transaction analytics.",
 ],
-    href: "",
+    // href: "",
     logo: "",
     image: "/assets/projects/faceimg.jpg",
     tags: [
@@ -244,6 +244,16 @@ export const mySocials = [
     href: "https://www.instagram.com/riya.bhadange09/",
     icon: "/assets/socials/instagram.svg",
   },
+  {
+    name: "GitHub",
+    href: "https://github.com/Riyabhadangee",
+    icon: "/assets/socials/github.svg",
+  },
+    {
+    name: "Leetcode",
+    href: "https://leetcode.com/u/Riya_Bhadange/",
+    icon: "/assets/socials/leetcode.svg",
+  },
 ];
 
 export const experiences = [
@@ -274,7 +284,7 @@ export const experiences = [
   {
     title: "Research Intern ",
     job: "Indian Institute of Science Education and Research (IISER)",
-    date: "Oct, 2025 - Dec, 2025",
+    date: "Jun, 2026 - Aug, 2026",
   contents: [
   "Conducted research on artificial neural networks and artificial synapse modeling.",
   "Analyzed experimental data and evaluated machine learning model performance using Python and SQL.",
