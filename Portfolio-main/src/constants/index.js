@@ -249,11 +249,11 @@ export const mySocials = [
     href: "https://github.com/Riyabhadangee",
     icon: "/assets/socials/github.svg",
   },
-    {
-    name: "Leetcode",
-    href: "https://leetcode.com/u/Riya_Bhadange/",
-    icon: "/assets/socials/leetcode.svg",
-  },
+  //   {
+  //   name: "Leetcode",
+  //   href: "https://leetcode.com/u/Riya_Bhadange/",
+  //   icon: "/assets/socials/leetcode.svg",
+  // },
 ];
 
 export const experiences = [
