@@ -284,7 +284,7 @@ export const experiences = [
   {
     title: "Research Intern ",
     job: "Indian Institute of Science Education and Research (IISER)",
-    date: "Jun, 2026 - Aug, 2026",
+    date: "May, 2026 - Jul, 2026",
     contents: [
   "Investigated Graph Neural Network (GNN) architectures for computational drug discovery, focusing on accurate and interpretable drug–target interaction prediction.",
   "Developed molecular graph representations and implemented deep learning pipelines using Python, PyTorch Geometric, and RDKit.",
