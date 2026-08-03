@@ -295,12 +295,12 @@ export const experiences = [
   },
 ];
 export const reviews = [
-  {
-    name: "200+",
-    // username: "DSA Problems Solved",
-    body: "DSA Problems Solved",
-    img: "https://robohash.org/jack",
-  },
+  // {
+  //   name: "200+",
+  //   // username: "DSA Problems Solved",
+  //   body: "DSA Problems Solved",
+  //   img: "https://robohash.org/jack",
+  // },
   {
     name: "3+",
     // username: "@jill",
