@@ -285,13 +285,13 @@ export const experiences = [
     title: "Research Intern ",
     job: "Indian Institute of Science Education and Research (IISER)",
     date: "Jun, 2026 - Aug, 2026",
-  contents: [
-  "Conducted research on artificial neural networks and artificial synapse modeling.",
-  "Analyzed experimental data and evaluated machine learning model performance using Python and SQL.",
-  "✅ Designed and optimized artificial synapse architectures for improved neural network efficiency.",
-  "✅ Performed experimentation, testing, and validation of computational models.",
-  "✅ Documented research findings and collaborated with mentors on model optimization."
-],
+    contents: [
+  "Investigated Graph Neural Network (GNN) architectures for computational drug discovery, focusing on accurate and interpretable drug–target interaction prediction.",
+  "Developed molecular graph representations and implemented deep learning pipelines using Python, PyTorch Geometric, and RDKit.",
+  "✅ Applied Explainable AI (XAI) techniques to interpret model predictions and identify important molecular substructures influencing drug interactions.",
+  "✅ Evaluated model performance using benchmark datasets, classification metrics, and comparative analysis with existing state-of-the-art approaches.",
+  "✅ Documented research findings, prepared technical reports, and collaborated with mentors to optimize Graph Neural Network models for AI-driven drug discovery."
+]
   },
 ];
 export const reviews = [
